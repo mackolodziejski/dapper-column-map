@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <Version>1.0.5</Version>
+    <Version>1.0.6</Version>
     <Authors>Maciej Kołodziejski</Authors>
-    <RepositoryUrl>https://github.com/mackolodziejski/dapper-column-map</RepositoryUrl>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
